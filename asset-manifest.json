@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Love/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Love/static/js/main.b5e1f901.chunk.js",
+    "main.js.map": "/Love/static/js/main.b5e1f901.chunk.js.map",
+    "runtime-main.js": "/Love/static/js/runtime-main.c984a01c.js",
+    "runtime-main.js.map": "/Love/static/js/runtime-main.c984a01c.js.map",
+    "static/js/2.e2936145.chunk.js": "/Love/static/js/2.e2936145.chunk.js",
+    "static/js/2.e2936145.chunk.js.map": "/Love/static/js/2.e2936145.chunk.js.map",
+    "index.html": "/Love/index.html",
+    "precache-manifest.8a9224810ddea8287fb42ef9a88ad630.js": "/Love/precache-manifest.8a9224810ddea8287fb42ef9a88ad630.js",
+    "service-worker.js": "/Love/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Love/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e2936145.chunk.js.LICENSE.txt": "/Love/static/js/2.e2936145.chunk.js.LICENSE.txt",
+    "static/media/love.jpg": "/Love/static/media/love.deb2bf8d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c984a01c.js",
+    "static/js/2.e2936145.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b5e1f901.chunk.js"
+  ]
+}
